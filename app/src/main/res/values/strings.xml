@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">词典</string>
+    <string name="search">查询本地单词</string>
+    <string name="add">添加新词</string>
+    <string name="suo">缩略</string>
+    <string name="time">时间</string>
+    <string name="ok">保存</string>
+    <string name="bianji">输入英文   \n输入中文</string>
+    <string name="lianwang">联网查询单词</string>
+    <string name="clear">清空</string>
+    <string name="lian">在此输入需要联网查询的单词</string>
+</resources>
